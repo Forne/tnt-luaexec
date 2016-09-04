@@ -1,0 +1,8 @@
+{
+	"tarantool": {
+      "server": "tarantool:3301",
+      "user": "guest",
+      "password": "",
+      "file": "migrate.lua"
+    }
+}
